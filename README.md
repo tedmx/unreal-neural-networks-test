@@ -1,3 +1,3 @@
-# Unreal Neural Network Tests
+# Unreal 5 Reinforcing Learning
 
-Developed with Unreal Engine 5
+Building Unreal 5 based environment for Gym for RL experiments.
